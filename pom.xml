@@ -17,7 +17,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <nutz-version>1.r.57.r3</nutz-version>
         <mongodb-version>3.2.2</mongodb-version>
-        <hadoop.version>2.7.3</hadoop.version>
+        <hadoop.version>3.2.3</hadoop.version>
     </properties>
 
     <dependencies>
